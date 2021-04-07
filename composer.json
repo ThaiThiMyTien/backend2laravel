@@ -1,0 +1,23 @@
+{
+    "name": "thaithimytien/backend-web2",
+    "description": "Create text",
+    "keywords": [       
+    ],
+    "authors": [
+        {
+            "name": "thaithimytien",
+            "email": "thaithimytien0906@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "license": "MIT",
+   "require": {
+        
+    },
+    "autoload": {
+        "psr-4": { 
+            "thaithimytien\\backend\\": "/"          
+        }
+    },
+    "minimum-stability": "dev"
+}
